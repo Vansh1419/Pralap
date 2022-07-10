@@ -1,0 +1,6 @@
+.content__home{
+    width: 100%;
+    background-color: rgb(110,140,125);
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+}

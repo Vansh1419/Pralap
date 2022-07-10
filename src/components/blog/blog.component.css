@@ -1,0 +1,29 @@
+.home__blog{
+    background-color: rgb(144, 164, 155);
+    margin: 3rem;
+}
+.my__blog{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom:  1rem; ;
+}
+.blog__image{
+    width: 80%;
+}
+.blog__heading {
+    font-size: 3rem;
+}
+.blog__content {
+    font-size: 1.2rem;
+    letter-spacing: 0.01rem;
+    word-spacing: 0.3rem;
+    width: 90%;
+  font-stretch: condensed;
+
+}
+.blog__author {
+    display: flex;
+    justify-content: flex-end;
+    width: 90%;
+}
