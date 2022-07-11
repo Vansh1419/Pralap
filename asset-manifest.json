@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Pralap/static/css/main.dfb72953.css",
+    "main.js": "/Pralap/static/js/main.cf6e486f.js",
+    "static/js/787.088ff1ca.chunk.js": "/Pralap/static/js/787.088ff1ca.chunk.js",
+    "static/media/video1.mp4": "/Pralap/static/media/video1.f9281dab98f11784ba73.mp4",
+    "index.html": "/Pralap/index.html",
+    "main.dfb72953.css.map": "/Pralap/static/css/main.dfb72953.css.map",
+    "main.cf6e486f.js.map": "/Pralap/static/js/main.cf6e486f.js.map",
+    "787.088ff1ca.chunk.js.map": "/Pralap/static/js/787.088ff1ca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dfb72953.css",
+    "static/js/main.cf6e486f.js"
+  ]
+}
